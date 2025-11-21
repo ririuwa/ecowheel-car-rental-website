@@ -16,8 +16,5 @@ A fully responsive, high-performance luxury car rental website built with *pure 
 ### Tech Stack
 HTML5 • CSS3 (Flexbox/Grid) • Vanilla JavaScript • Fontshare Fonts
 
-### Preview
-![Hero Screenshot](resource/screenshot-hero.png)
-![Fleet Grid](resource/screenshot-fleet.png)
 
 Built in November 2025 as a portfolio project.
